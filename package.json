@@ -1,10 +1,10 @@
 {
-  "name": "qr-image",
+  "name": "@noe132/qr-image",
   "version": "3.2.1",
   "description": "QR Code generator svg only",
   "homepage": "https://github.com/noe132/qr-image",
   "keywords": [ "qrcode", "qr code", "qr", "png", "svg", "image" ],
-  "types": "index.d.ts",
+  "types": "./index.d.ts",
   "author": {
     "name": "Alexey Ten"
   },
@@ -20,6 +20,7 @@
   },
   "files": [
     "lib",
-    "LICENSE"
+    "LICENSE",
+    "index.d.ts"
   ]
 }
