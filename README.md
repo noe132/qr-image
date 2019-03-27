@@ -1,4 +1,4 @@
-qr-image
+qr-image (svg only modify)
 ========
 
 [![npm version](https://badge.fury.io/js/qr-image.svg)](https://badge.fury.io/js/qr-image)

@@ -1,19 +1,19 @@
 {
   "name": "qr-image",
   "version": "3.2.0",
-  "description": "QR Code generator (png, svg, pdf, eps)",
-  "homepage": "https://github.com/alexeyten/qr-image",
+  "description": "QR Code generator svg only",
+  "homepage": "https://github.com/noe132/qr-image",
   "keywords": [ "qrcode", "qr code", "qr", "png", "svg", "image" ],
+  "types": "index.d.ts",
   "author": {
-    "name": "Alexey Ten",
-    "url": "http://git.io/alexeyten"
+    "name": "Alexey Ten"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexeyten/qr-image.git"
+    "url": "https://github.com/noe132/qr-image.git"
   },
-  "bugs": "https://github.com/alexeyten/qr-image/issues",
+  "bugs": "https://github.com/noe132/qr-image/issues",
   "main": "./lib/qr.js",
   "scripts": {
     "test": "./tests/test.js"
